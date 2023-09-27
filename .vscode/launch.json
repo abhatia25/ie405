@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/adityabhatia/Documents/GitHub/ie405/homework3",
-      "program": "/Users/adityabhatia/Documents/GitHub/ie405/homework3/build/Debug/outDebug"
+      "cwd": "/Users/adityabhatia/Documents/GitHub/ie405/homework4",
+      "program": "/Users/adityabhatia/Documents/GitHub/ie405/homework4/build/Debug/outDebug"
     }
   ]
 }
